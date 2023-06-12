@@ -1,0 +1,1 @@
+POST_TYPES = ['text', 'image', 'link']
